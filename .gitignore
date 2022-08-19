@@ -105,3 +105,5 @@ dist
 
 #Archivos Autogenerados de JavaScript
 src/**/*.js
+/**/*.js
+/**/*.map
